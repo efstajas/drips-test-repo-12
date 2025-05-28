@@ -5,6 +5,9 @@
     },
     "filecoin": {
       "ownedBy": "0x44f59d8C47EF6Fa8fcF477Bfead562268Dc6C8AE"
+    },
+    "localtestnet": {
+      "ownedBy": "0xf341c851dF3Da8aAA6027c91774ff6904b427730"
     }
   }
 }
